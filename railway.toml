@@ -1,0 +1,5 @@
+[build]
+rootDirectory = "discord-bot"
+
+[deploy]
+startCommand = "python bot.py"
